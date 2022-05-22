@@ -2,10 +2,7 @@
 
 <!--
 
-Here are some ideas to get you started:
 
--  I’m currently working on ...
-###  &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm was a software engineer graduate.\
