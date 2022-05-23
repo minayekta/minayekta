@@ -2,8 +2,8 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm a software engineer graduate.\
-🔭 I'm currently working on ronix website
-👨🏻‍💻 I’m currently learning machine learning
+🔭 I'm currently working on ronix website.\
+👨🏻‍💻 I’m currently learning machine learning.\
 🌱 &nbsp;I'm Interested in building web apps and heavily interested in any form of iot & machine learning.\
 ✍️ &nbsp;In my free time, I pursue Martial Arts and Hiking and video games.\
 ✉️ &nbsp;You can shoot me an email at mina.qolizadeh@hotmail.com! I'll try to respond as soon as I can.\
