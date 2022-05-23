@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm was a software engineer graduate.\
+🎓 &nbsp;I'm a software engineer graduate.\
 🔭 I'm currently working on ronix website
 👨🏻‍💻 I’m currently learning machine learning
 🌱 &nbsp;I'm Interested in building web apps and heavily interested in any form of iot & machine learning.\
